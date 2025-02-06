@@ -15,9 +15,7 @@ A simple and interactive to-do list web application built using **HTML**, **CSS*
 - **CSS**: Styling for a clean, minimalistic design.
 - **JavaScript**: Adds functionality for task management (add, remove, toggle completion).
 
-## Screenshots
-
-![To-Do App Screenshot](path/to/screenshot.png)
+Visit: https://manas-raj999.github.io/TO-DO-APP/
 
 ## Installation
 
